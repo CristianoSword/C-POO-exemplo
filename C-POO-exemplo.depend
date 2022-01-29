@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1643423615 source:f:\dev\c ansi\c completo e total\c-poo-exemplo\main.c
+	<stdio.h>
+
+1643422383 f:\dev\c ansi\c completo e total\c-poo-exemplo\object.h
+
+1643423023 f:\dev\c ansi\c completo e total\c-poo-exemplo\person.h
+	"Object.h"
+
+1643423365 source:f:\dev\c ansi\c completo e total\c-poo-exemplo\object.c
+	"object.h"
+
+1643423365 source:f:\dev\c ansi\c completo e total\c-poo-exemplo\person.c
+	"person.h"
+
